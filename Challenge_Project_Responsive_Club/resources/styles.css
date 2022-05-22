@@ -120,7 +120,7 @@ Nav Section
 
 
 nav {
-    background-image: url(./images/nav_background.webp);
+    background-image: url("https://media.newyorker.com/photos/5b92a73140ba692da08e0dc6/master/w_2560,h_1700,c_limit/Bethea-Honnold_02.jpg");
     background-size: cover;
     height: 50rem;
 }
