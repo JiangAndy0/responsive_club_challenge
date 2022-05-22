@@ -120,7 +120,7 @@ Nav Section
 
 
 nav {
-    background-image: url('./images/nav_background.webp');
+    background-image: url(./images/nav_background.webp);
     background-size: cover;
     height: 50rem;
 }
